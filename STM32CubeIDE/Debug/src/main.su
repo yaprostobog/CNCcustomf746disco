@@ -1,0 +1,2 @@
+main.cpp:14:6:void moveAxis(AxisId, bool)	0	static
+main.cpp:20:6:void StartTask02(const void*)	8	static
